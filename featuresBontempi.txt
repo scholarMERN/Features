@@ -1,0 +1,4 @@
+Feateurs:
+-interfaccia utente/admin
+-grafici
+-modifica dei metadati
