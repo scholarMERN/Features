@@ -1,0 +1,22 @@
+(La lettera corrisponde, per le features, al story appartenente).
+
+-Interfaccia Backend Server 3,5 G
+-InterfacciaDB 4 G
+
+-Controllo Input 0,5 L
+-Alert 5 L
+-Session e rendering 2 L
+-Riconoscimento LVL auth 1 L
+
+-Inserimento dati 4 A
+-Creazione admin (solo se king) 2 A
+-Impostazioni profilo e Gestione admin 2 A
+
+-King Admin one time password 5 K
+-Nodemailer 5 K
+
+-Navbar con login logout 3,5 H
+-Linea tempo con link ai dati 1,5 H
+-Pagina errore 1,5 H
+-Button per pagina dati 2 H
+-Grafici diversi 3xN H
